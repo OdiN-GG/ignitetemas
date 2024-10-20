@@ -1,5 +1,7 @@
 # Welcome to your Expo app 👋
 
+![igniteTeams](https://github.com/user-attachments/assets/0424401b-9714-41d4-82b8-04407a793d70)
+
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ## Get started
